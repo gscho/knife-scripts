@@ -1,0 +1,7 @@
+{
+  "default_attributes": {
+    "test": {
+      "foo": "bar"
+    }
+  }
+}
